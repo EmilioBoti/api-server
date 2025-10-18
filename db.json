@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Realme GT 7T 5G",
+      "descritopn": "Un smartphone espectacular con 12 GB de RAM y 512 GB de almacenamiento. Además, cuenta con una de las pantallas más brillante del mercado, con un total de picos de 6.000 nits, además de una resolución FHS+ con 120 Hz, una batería de 7.000 mAh con carga rápida de 120 W y el potente MediaTek 8400-MAX.",
+      "price": 699.00,
+      "currency": "EURO"
+    },
+    {
+      "id": 2,
+      "name": "Disco duro externo 5 TB - Seagate",
+      "descritopn": "Este disco duro externo de la marca Seagate cuenta con licencia oficial de PlayStation para instalar nuestros juegos en él. Lo único 'malo' es que no podremos instalar juegos de PS5, pues no es compatible con la velocidad del SSD de la consola. Podremos instalar tanto juegos de PS4 como grabar vídeos o guardar nuestras capturas. Además, en caso de preferirlo para otra cosa, también podremos utilizarlo para guardar nuestros archivos personales.",
+      "price": 189.99,
+      "currency": "EURO"
+    },
+    {
+      "id": 3,
+      "name": "Apple 2025 MacBook Air M4",
+      "descritopn": "El portátil estrella de Apple vuelve a bajar de precio. Se trata del modelo de 13,6 con el chip M4, 16 GB de memoria unificada y 256 GB de SSD. Se trata del modelo azul cielo, aunque también está disponible en plata",
+      "price": 1199.00,
+      "currency": "EURO"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy Watch6 Classic BT",
+      "descritopn": "Este fantástico smartwatch de Samsung cae de precio en el outlet de MediaMarkt. La principal característica de este modelo es su dial giratorio, con el que podemos controlar la navegación del mismo. Permite responder mensajes, llamadas y pagar, además de monitorizar nuestra salud.",
+      "price": 339.99,
+      "currency": "EURO"
+    },
+    {
+      "id": 5,
+      "name": "Sony PS5 Slim Digital",
+      "descritopn": "La PlayStation 5 Slim en su versión digital cae de precio en su nuevo chasis. Este modelo, al igual que la consola original, cuenta con un SSD de 825 GB, y al tratarse del modelo Slim digital, tenemos que comprar el lector de discos de manera separada.",
+      "price": 499.00,
+      "currency": "EURO"
+    }
+  ]
+}
