@@ -1,8 +1,23 @@
 {
-  "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
-  },
   "scripts": {
-    "start:api": "json-server --watch db.json --port 3000"
-  } 
+    "start:api": "node server.js",
+    "start": "node server.js"
+  },
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilioBoti/api-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilioBoti/api-server/issues"
+  },
+  "homepage": "https://github.com/EmilioBoti/api-server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
 }
